@@ -2,7 +2,7 @@
 
 # iNotebook - Note Taking App
 
-![App Screenshots](screenshots.png)
+![App Screenshots](https://user-images.githubusercontent.com/72593204/264545219-8d51e5b8-cb55-420d-ae30-5e8bc410ea99.png)
 
 iNotebook is a note-taking web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create, edit, and delete notes, as well as manage them by adding tags. The app also provides user authentication, enabling users to sign up, log in, and securely store their notes in a MongoDB database.
 
@@ -93,8 +93,8 @@ iNotebook is a note-taking web application built using the MERN (MongoDB, Expres
 
 Here are some screenshots of the iNotebook app in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://user-images.githubusercontent.com/72593204/264545440-64dcbd02-6670-47a5-9910-426737387278.png)
+![Screenshot 2](https://user-images.githubusercontent.com/72593204/264545445-da1c8b31-badf-4957-8e70-777848c84ff4.png)
 <!-- Add more screenshots as needed -->
 
 ## Contributing
